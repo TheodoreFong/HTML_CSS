@@ -1,0 +1,90 @@
+﻿/* root.css */
+/* 
+COLORS
+    Main Text:              #3d3d3d
+    Army Gold:              #ffd54a
+    Army Green:             #7b8738                  
+    Light Gray bg:          #f7f7f7
+------------------------------------*/
+/* 1. Elements
+------------------------------------*/
+body {
+    background: #7a7a7a url('../images/body_gradient.jpg') repeat-x;
+    color: #3d3d3d;
+    font-family: Verdana, Arial, sans-serif;
+}
+a {
+    color: #ffd54a;
+    font-weight: bold;
+    text-decoration: none;
+    padding:5px;
+}
+a:hover {
+    color: #7b8738;
+}
+ul {
+	font-size: large;
+	list-style-type: none;
+}
+
+/* 2. ID's
+------------------------------------*/
+#container {
+    background: #fff;
+    font-size: 62.5%;
+    margin: 0 auto 14px;
+    padding: 14px 0;
+    overflow: auto;
+    width: 996px;
+}
+#contentBackground {
+    width: 996px;
+    overflow: hidden;
+	background-color: #CCCCCC;
+}
+#footer {
+    background: #4e4e4e;
+    clear: both;
+    color: #e3e3e3;
+    font-size: 1.2em;
+    padding: 0px 10px;
+    overflow: auto;
+    width: 976px;
+    height:50px;
+	text-align:center;
+}
+#header {
+    background: url('../images/banner.jpg') no-repeat;
+    border-bottom: 1px solid #8f8f8f;
+    height: 100px;
+    width: 996px;
+    font-size:xx-large;
+    color:#ffd54a;
+    text-align:center;
+}
+#leftCol {
+    background: #999999;
+    float: left;
+    width: 196px;
+    font-size:medium;
+}
+#rightCol {
+    background: #c2c2c2;
+    float: right;
+    width: 196px;
+    font-size:medium;
+}
+#mainContent {
+	width:  775px;
+	float: right;
+}
+
+#wrapper {
+    background: url('../images/white_bg.gif') repeat-y center top;
+    width: 100%;
+}
+
+
+/* 3. Classes
+------------------------------------*/
+
