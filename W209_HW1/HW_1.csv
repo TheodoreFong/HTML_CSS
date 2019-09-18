@@ -1,4 +1,4 @@
-﻿Date,Day of Week,Hours of Sleep,Worked Out
+﻿date,weekday,sleep_hours,workout
 18-Sep-19,Wednesday,1,Yes
 17-Sep-19,Tuesday,4.5,No
 16-Sep-19,Monday,6,Yes
