@@ -1,0 +1,39 @@
+body {
+  font-family: 'Helvetica';
+  color: #000000;
+  background-color: #F3FAFA;
+}
+
+#title {
+  font-family: 'Helvetica';
+  text-align: center;
+  padding: 30px;
+  font-size: 28px;
+  letter-spacing: -0.01em;
+  color: #000000;
+}
+
+#legend {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 10px 10px;
+  font-size: 12px;
+}
+
+#legend .item {
+  line-height: 12px;
+  padding: 0 10px 0 4px;
+}
+
+#legend .item.workout {
+  border-left: 12px solid #3DC01C;
+}
+
+#legend .item.no_workout {
+  border-left: 12px solid #F50000;
+}
+
+
+#chart-wrapper {
+  height: 1000px;
+}
