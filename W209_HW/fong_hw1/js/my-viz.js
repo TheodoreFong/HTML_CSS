@@ -35,4 +35,4 @@ function makeChart(data) {
 }
 
 // Request data using D3
-d3.csv('https://raw.githubusercontent.com/TheodoreFong/HTML_CSS/master/W209_HW1/HW_1.csv').then(makeChart);
+d3.csv('https://raw.githubusercontent.com/TheodoreFong/HTML_CSS/master/W209_HW/fong_hw1/HW_1.csv').then(makeChart);
