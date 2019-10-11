@@ -1,0 +1,182 @@
+[
+  {
+    "date": "18-Sep-19",
+    "weekday": "Wednesday",
+    "sleep_hours": 1,
+    "workout": "Yes"
+  },
+  {
+    "date": "17-Sep-19",
+    "weekday": "Tuesday",
+    "sleep_hours": 4.5,
+    "workout": "No"
+  },
+  {
+    "date": "16-Sep-19",
+    "weekday": "Monday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "15-Sep-19",
+    "weekday": "Sunday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "14-Sep-19",
+    "weekday": "Saturday",
+    "sleep_hours": 4.5,
+    "workout": "No"
+  },
+  {
+    "date": "13-Sep-19",
+    "weekday": "Friday",
+    "sleep_hours": 6.25,
+    "workout": "No"
+  },
+  {
+    "date": "12-Sep-19",
+    "weekday": "Thursday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "11-Sep-19",
+    "weekday": "Wednesday",
+    "sleep_hours": 1.5,
+    "workout": "Yes"
+  },
+  {
+    "date": "10-Sep-19",
+    "weekday": "Tuesday",
+    "sleep_hours": 3.5,
+    "workout": "No"
+  },
+  {
+    "date": "09-Sep-19",
+    "weekday": "Monday",
+    "sleep_hours": 5.75,
+    "workout": "No"
+  },
+  {
+    "date": "08-Sep-19",
+    "weekday": "Sunday",
+    "sleep_hours": 8,
+    "workout": "Yes"
+  },
+  {
+    "date": "07-Sep-19",
+    "weekday": "Saturday",
+    "sleep_hours": 7,
+    "workout": "No"
+  },
+  {
+    "date": "06-Sep-19",
+    "weekday": "Friday",
+    "sleep_hours": 6,
+    "workout": "No"
+  },
+  {
+    "date": "05-Sep-19",
+    "weekday": "Thursday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "04-Sep-19",
+    "weekday": "Wednesday",
+    "sleep_hours": 3.5,
+    "workout": "Yes"
+  },
+  {
+    "date": "03-Sep-19",
+    "weekday": "Tuesday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "02-Sep-19",
+    "weekday": "Monday",
+    "sleep_hours": 8,
+    "workout": "No"
+  },
+  {
+    "date": "01-Sep-19",
+    "weekday": "Sunday",
+    "sleep_hours": 5.25,
+    "workout": "Yes"
+  },
+  {
+    "date": "31-Aug-19",
+    "weekday": "Saturday",
+    "sleep_hours": 8,
+    "workout": "Yes"
+  },
+  {
+    "date": "30-Aug-19",
+    "weekday": "Friday",
+    "sleep_hours": 4.75,
+    "workout": "Yes"
+  },
+  {
+    "date": "29-Aug-19",
+    "weekday": "Thursday",
+    "sleep_hours": 6.25,
+    "workout": "No"
+  },
+  {
+    "date": "28-Aug-19",
+    "weekday": "Wednesday",
+    "sleep_hours": 5.75,
+    "workout": "Yes"
+  },
+  {
+    "date": "27-Aug-19",
+    "weekday": "Tuesday",
+    "sleep_hours": 4.5,
+    "workout": "Yes"
+  },
+  {
+    "date": "26-Aug-19",
+    "weekday": "Monday",
+    "sleep_hours": 6,
+    "workout": "No"
+  },
+  {
+    "date": "25-Aug-19",
+    "weekday": "Sunday",
+    "sleep_hours": 5.75,
+    "workout": "Yes"
+  },
+  {
+    "date": "24-Aug-19",
+    "weekday": "Saturday",
+    "sleep_hours": 7,
+    "workout": "Yes"
+  },
+  {
+    "date": "23-Aug-19",
+    "weekday": "Friday",
+    "sleep_hours": 5,
+    "workout": "Yes"
+  },
+  {
+    "date": "22-Aug-19",
+    "weekday": "Thursday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  },
+  {
+    "date": "21-Aug-19",
+    "weekday": "Wednesday",
+    "sleep_hours": 2.75,
+    "workout": "No"
+  },
+  {
+    "date": "20-Aug-19",
+    "weekday": "Tuesday",
+    "sleep_hours": 6,
+    "workout": "Yes"
+  }
+]

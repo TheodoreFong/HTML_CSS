@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Fong_HW1</title>
+    <link rel="stylesheet" href="css/style.css">
+    <h1>Welcome to Theodore Fong's W209 website currently made for HW1 Part 2</h1>
+  </head>
+
+  <body>
+    <p>I record my sleep every night and whenever I work out. For the purpose of this graph, I took the past 30 days of my sleep data from my Apple Watch and a binary "Yes" or "No" if I worked out.</p>
+    
+    <div id="chart"></div>
+    <p> This plot shows the hours of sleep I had every night, with green indicating if I worked out that day and red indicating if I did not work out that day.</p>
+    <p> Grad school is definitely taking a toll on me given the amount of sleep that I'm getting and how it seems to be related to my workout days.</p>
+
+    <p>In order to account for more interactive features in the chart specific to D3, I switched from chart.min.js to /d3-legend.min.js</p>
+    <p>I added two features to this graph from the previous version in Homework 1: A highlight feature and hover-over mouse feature. The hover-over mouse function provides the full data for each data point in a ‘tool tip’ format. This feature allows you to drill into the specific data and see the full data that went into that bar.</p>
+    <p>The highlight feature allows you to click an entry that you are hovering over to highlight all common days of that week to see a common height amongst a specific weekday. This feature allows you to see common trends by a specific day of the week. It may also be insightful to know that you do not have any trend on specific days..</p>
+    <!-- js sources -->
+    <script src='js/d3.v4.js'></script>
+    <script src="js/d3-legend.min.js"></script>
+    <script src="js/my-viz.js"></script>
+  </body>
+</html>

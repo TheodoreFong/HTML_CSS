@@ -1,0 +1,39 @@
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    width: 200px;
+    height: 40px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+rect.Sunday {
+    fill: "#000000";
+}
+rect.Monday {
+    fill: "#000000";
+}
+rect.Tuesday {
+    fill: "#000000";
+}
+rect.Wednesday {
+    fill: "#000000";
+}
+rect.Thursday {
+    fill: "#000000";
+}
+rect.Friday {
+    fill: "#000000";
+}
+rect.Saturday {
+    fill: "#000000";
+}
+
+body {
+  font-family: 'Helvetica';
+  color: #000000;
+  background-color: #F3FAFA;
+}
